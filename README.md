@@ -21,8 +21,12 @@ Trabajo Individual Capítulo 3 y Capítulo 4
   ![2](https://user-images.githubusercontent.com/104863870/170371998-cb6dd036-b4f3-4341-a9b9-50a623618366.png)
   ![3](https://user-images.githubusercontent.com/104863870/170372047-1aa9f5d7-f61a-4dde-a707-068a1e3909a0.png)
 
-
 ## 3. RESOLUCIÓN DE PROBLEMAS
+
+SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
+
+### 2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
+![image](https://user-images.githubusercontent.com/104863870/170372681-96b1852c-dce8-472d-853b-4ae10582a563.png)
 
 ## 5. VÍDEO
 
