@@ -56,11 +56,13 @@ Al aumentra la corriente al 50% también aumenta el voltaje
 
 ![image](https://user-images.githubusercontent.com/104863870/170373664-21a098be-3780-4138-9b6e-00228e1ad99a.png)
 
+Si tiene relación lienal entre la corriente y el voltaje debido a que los valores son proporcionales ya que si una de las cantidades aumenta o disminuye, la otra le seguirá proporcianlmente con los porcentajes.
+
 SECCIÓN 3–2 Cálculo de la corriente
 
 16. Determine la corriente en cada caso:
 
-![image](https://user-images.githubusercontent.com/104863870/170373820-13e32f4a-2fc6-4327-81d8-760559c6eebe.png)
+![image](https://user-images.githubusercontent.com/104863870/170425430-b91dea1f-c4d8-48e9-ab45-04b0af34f494.png)
 
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máximas y mínimas esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
@@ -98,7 +100,9 @@ SECCIÓN 3–4 Cálculo de la resistencia
 
 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
-Hay que medir la corriente con el amperímetro, luego calculamo la resistencia desconocida como R=12V/I
+![image](https://user-images.githubusercontent.com/104863870/170425825-737ca755-564b-41eb-b10f-ae1d899e1a0c.png)
+
+Hay que medir la corriente con el amperímetro, luego calculamos la resistencia desconocida como R=12V/I
 
 ![image](https://user-images.githubusercontent.com/104863870/170374760-a9dbffa0-4369-4e53-9608-d16612983c05.png)
 
