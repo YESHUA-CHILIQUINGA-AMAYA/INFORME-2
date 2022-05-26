@@ -201,6 +201,8 @@ SECCIÓN 4–5 Fuentes de potencia
 
 ## 5. VÍDEO
 
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
 ## 6. CONCLUSIONES 
 
 + Gracias a la implementación de la ley de Ohm se puede realizar ejercicios de manera eficaz para el cálculo de voltaje, corriente y resistencia de un circuito.
