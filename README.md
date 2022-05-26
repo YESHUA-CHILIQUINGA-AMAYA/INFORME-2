@@ -114,7 +114,7 @@ SECCIÓN 3–5 Introducción a la localización de fallas
 
 ![image](https://user-images.githubusercontent.com/104863870/170375018-ca5ca09a-5ae4-413f-aa70-418806fd56c6.png)
 
-El cuarto foco está fundido.
+El tercer foco está fundido.
 
 SECCIÓN 4–1 Energía y potencia
 
