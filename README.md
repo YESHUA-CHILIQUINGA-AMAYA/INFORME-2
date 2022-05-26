@@ -49,6 +49,7 @@ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
 El circuito C tiene la mayor corriente mientras que el A tiene menor corriente
 
 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
 ![image](https://user-images.githubusercontent.com/104863870/170373479-d957c9ce-f52f-467a-bdec-0f0b6be272f6.png)
 
 Al aumentra la corriente al 50% también aumenta el voltaje
