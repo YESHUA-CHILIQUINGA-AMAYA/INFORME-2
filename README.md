@@ -203,4 +203,7 @@ SECCIÓN 4–5 Fuentes de potencia
 
 ## 6. CONCLUSIONES 
 
++ Gracias a la implementación de la ley de Ohm se puede realizar ejercicios de manera eficaz para el cálculo de voltaje, corriente y resistencia de un circuito.
++ Como comprobamos la energía eléctrica es el resultado de la diferencia de potencial entre dos putnos y gracias a la ley de Ohm se pudo medir de manera eficaz los componentes distintos para cada circuito, relacionando sus resistencias equivalentes; también se comprendió el método de división de la mitad se pueden localizar fallas en un circuito
+
 ## 7. BIBLIOGRAFÍA
