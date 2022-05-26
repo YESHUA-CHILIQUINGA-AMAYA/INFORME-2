@@ -179,7 +179,7 @@ SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
 
 ![image](https://user-images.githubusercontent.com/104863870/170375752-b55dcd60-6498-4fc1-afed-b9c72b0ca7f5.png)
-![image](https://user-images.githubusercontent.com/104863870/170375765-eff2a847-d75e-430c-a3aa-6ad6a7edf11d.png)
+![image](https://user-images.githubusercontent.com/104863870/170412199-ab8b87c4-6162-41e1-b347-b33d3c91e22f.png)
 
 SECCIÓN 4–5 Fuentes de potencia
 
