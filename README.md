@@ -207,7 +207,7 @@ SECCIÓN 4–5 Fuentes de potencia
 
 ## 5. VÍDEO
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/guVOvtuhn2I
 
 ## 6. CONCLUSIONES 
 
