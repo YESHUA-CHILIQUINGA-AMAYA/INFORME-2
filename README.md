@@ -144,7 +144,7 @@ SECCIÓN 4–1 Energía y potencia
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
-![image](https://user-images.githubusercontent.com/104863870/170375450-fdeff5e6-08b0-4706-a77f-40252d0bddaa.png)
+![image](https://user-images.githubusercontent.com/104863870/170426104-06ae717f-62e1-433d-a54c-9e3674b40645.png)
 
 14. Convierta 5x10^6 vatios-minutos en kWh.
 
@@ -193,7 +193,7 @@ SECCIÓN 4–5 Fuentes de potencia
 
 32. Una batería puede proporcionar un promedio de 1,5 A de corriente durante 24 h. ¿Cuál es su capacidad? en amperes-hora?
 
-![image](https://user-images.githubusercontent.com/104863870/170375846-3f70868c-84b0-4af9-8dea-740a307267dd.png)
+![image](https://user-images.githubusercontent.com/104863870/170426220-4d0681ff-4005-4273-8b79-d2163655cb1f.png)
 
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio se suministrará durante 48 h?
 
