@@ -207,3 +207,5 @@ SECCIÓN 4–5 Fuentes de potencia
 + Como comprobamos la energía eléctrica es el resultado de la diferencia de potencial entre dos putnos y gracias a la ley de Ohm se pudo medir de manera eficaz los componentes distintos para cada circuito, relacionando sus resistencias equivalentes; también se comprendió el método de división de la mitad se pueden localizar fallas en un circuito
 
 ## 7. BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
